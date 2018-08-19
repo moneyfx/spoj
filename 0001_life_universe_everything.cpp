@@ -10,5 +10,5 @@ int main() {
         cout << n << endl;
     }
     
-	return 0;
+    return 0;
 }
