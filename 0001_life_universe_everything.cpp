@@ -8,7 +8,7 @@ int main() {
         cin >> n;
         if (n == 42) break;
         cout << n << endl;
-	}
+    }
     
 	return 0;
 }
