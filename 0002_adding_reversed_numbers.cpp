@@ -12,7 +12,7 @@ int main() {
         cin >> n1 >> n2;
         cout << reverse(reverse(n1) + reverse(n2)) << endl;
         numberOfCases--;
-	}
+    }
     return 0;
 }
 
