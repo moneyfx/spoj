@@ -1,9 +1,8 @@
-import java.util.*;
-import java.lang.*;
+import java.util.Scanner;
 import java.math.BigInteger;
 
 class Main {
-    public static void main(String[] args) throws java.lang.Exception {
+    public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         int i = scanner.nextInt();
         while (i > 0) {
